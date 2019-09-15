@@ -1,5 +1,5 @@
 {
-    "name": "pxt-bme280",
+    "name": "pxt-bme680",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -14,5 +14,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
