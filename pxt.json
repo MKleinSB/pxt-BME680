@@ -1,5 +1,5 @@
 {
-    "name": "mkleinsb-pxt-bme280",
+    "name": "pxt-bme280",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
